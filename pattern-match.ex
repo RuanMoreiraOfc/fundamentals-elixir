@@ -46,7 +46,7 @@ _
 # *** TUPLE ***
 
 {:ok, x} = {:ok, 12}
-# output: {:ok, 12} (:ok -> :ok; x -> 12)
+# output: {:ok, 12} (:ok == :ok; x -> 12)
 
 {x, y} = {:ok, 12}
 # output: {:ok, 12} (x -> :ok; y -> 12)
