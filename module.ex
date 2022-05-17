@@ -27,6 +27,9 @@ end
 Module2.call(2)
 # output: 84
 
+Module2.call 2
+# output: 84
+
 Module2.call(2.0)
 # output: 42
 
