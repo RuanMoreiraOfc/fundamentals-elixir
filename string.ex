@@ -12,3 +12,9 @@ String.downcase(x)
 
 "`X` is a string, it containes #{x}"
 # "`X` is a string, it containes TEXT" (x -> "TEXT")
+
+?a
+# output: 97
+
+?x
+# output: 120
