@@ -43,7 +43,7 @@ ElixirLS: Elixir support and debugger [ElixirLS]
 
 ## Strict Choices
 
-With maps you have to choice how you gonna call the key.
+With maps you have to choose how you gonna call the key.
 
 [Example with map!][map-example]
 
