@@ -2,6 +2,12 @@
 ELIXIR
 </h1>
 
+<div align="center">
+
+[![card-last-commit]][btn-null]
+
+</div>
+
 ## Fundamentals
 
 Elixir is a funcional complied language, one of the principles of it is immutability.
@@ -54,6 +60,14 @@ Javascript developers:
 ![vegeta under rain][sad-example]
 
 <!-- VARIABLES -->
+
+
+[btn-null]: #
+
+
+<!-- *** INFO CARDS *** -->
+
+[card-last-commit]: https://img.shields.io/github/last-commit/ruanmoreiraofc/fundamentals-elixir?style=for-the-badge&label=Last%20Commit
 
 <!-- *** FILES *** -->
 
