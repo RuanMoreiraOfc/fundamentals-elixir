@@ -8,6 +8,12 @@ ELIXIR
 
 </div>
 
+<div align="center">
+
+[![style-guide]][btn-style-guide]
+
+</div>
+
 ## Fundamentals
 
 Elixir is a funcional complied language, one of the principles of it is immutability.
@@ -63,11 +69,13 @@ Javascript developers:
 
 
 [btn-null]: #
+[btn-style-guide]: https://github.com/christopheradams/elixir_style_guide
 
 
 <!-- *** INFO CARDS *** -->
 
 [card-last-commit]: https://img.shields.io/github/last-commit/ruanmoreiraofc/fundamentals-elixir?style=for-the-badge&label=Last%20Commit
+[style-guide]: https://img.shields.io/badge/<StyleGuide>-_?style=for-the-badge
 
 <!-- *** FILES *** -->
 
